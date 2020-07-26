@@ -11,10 +11,10 @@ This design is meant to replace commonly used snap-together test tube racks like
 
 ## Ordering Parts
 
-The first step to ordering parts is filling out a proper bill of materials. Provided [here](https://docs.google.com/spreadsheets/d/1J19slEzeszxZjY6wbKE6jNVbN__mE522mNdJpSvLzcY/edit?usp=sharing) is an auto-updating spreadsheet, which can be modified for any quantity of racks:
+The first step to ordering parts is filling out a proper bill of materials. Provided [here](https://docs.google.com/spreadsheets/d/1J19slEzeszxZjY6wbKE6jNVbN__mE522mNdJpSvLzcY/copy) is an auto-updating spreadsheet, which can be modified for any quantity of racks:
 1. Make a copy of the spreadsheet so you can make modifications.
 1. Change the "**Number of Racks**" to the desired quantity.
-1. Find the laser cutting cost by going to the [Ponoko website](https://www.ponoko.com/deisgns).
+1. Find the laser cutting cost by going to the [Ponoko website](https://www.ponoko.com/designs).
     1. Upload the file `tube-rack-vector-sheet.svg` to that website (loading may take a few minutes)
     1. Change the "Height" of the design to `644.9mm` and then click the "Orientation" button so the design fits horizontally. Sometimes the website will change the design size to something a bit smaller or larger, so *ensure that the overall size is `644.9mm` wide by `309.6mm` long.* It should look like this:  <img src="images/ponoko-design-settings.png" alt="ponoko design settings" width="400"/>
     1. Confirm the design size and continue to material selection. This is technically up to you, but **in order for the engraved labels to show through, the material chosen needs to be very translucent or just transparent.** Normal "Clear Acrylic" works well for this. **Make sure you select a 3mm thick material, other thicknesses may not work with the bolt lengths.**
