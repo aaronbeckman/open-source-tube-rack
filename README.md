@@ -28,6 +28,6 @@ Shipping and tax is not included in this estimate, since that will vary based on
 Once you have all the parts, assembly should be a straightforward (although sometimes time consuming) process. The [assembly manual](assembly-manual-LATEST.pdf) is the current source of instructions. Everything you should need to know about making these (including a list of helpful tools and tricks for making assembly faster) will be in there.
 
 ## Further Questions / Contributing
-Anyone is welcome to contribute to this project. *If you have a different design idea or have photos of completed tube racks to add to this repository, please reach out to [the creator](https://github.com/MasterAar) of this project.*
+Anyone is welcome to contribute to this project. *If you have a different design idea or have photos of completed tube racks to add to this repository, please reach out to [the creator](https://github.com/aaronbeckman) of this project.*
 
-If you have further questions, please [create an issue](https://github.com/MasterAar/open-source-tube-rack/issues) with a clear description on what should be improved or added to the design, documentation, etc.
+If you have further questions, please [create an issue](https://github.com/aaronbeckman/open-source-tube-rack/issues) with a clear description on what should be improved or added to the design, documentation, etc.
