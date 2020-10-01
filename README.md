@@ -4,11 +4,13 @@
 ## Description
 An open source test tube rack design made for ~15mm to ~17.5mm diameter test tubes commonly used for coronavirus testing. This repository is meant to be a hub for source files, documentation, and improvements to be made. Refer to [Ordering Parts](#ordering-parts) and [Assembly](#assembly-instructions) for further instructions.
 
+**See the article [Here](https://www.ponoko.com/blog/maker-success-stories/open-source-test-tube-racks-coronavirus-testing/) for more information!**
+
 This design is meant to replace commonly used snap-together test tube racks like [these](https://image.made-in-china.com/2f0j00ligULfpcqukB/Snap-Together-Test-Tube-Racks-with-90-Wells.jpg). Although this laser-cut acrylic design is larger than snap-together tube racks for similar size tubes, it has several key improvements:
 * Uses a 96-well format, which interfaces better with other lab equipment and is a more common layout. <img src="images/empty-tube-rack-iso.jpg" alt="tube rack with engravings" width="450"/>
 * Larger spacing between test tubes means they are easy to grab, even in the middle of the rack.
 * Engraved row and column lettering helps with indexing the test tubes, and is much larger and easier to see than the tiny "embossed" lettering on common 60 or 90-place snap-together racks.<img src="images/empty-tube-rack-engravings.jpg" alt="tube rack with engravings" width="300"/>
-**See the article [Here](https://www.ponoko.com/blog/maker-success-stories/open-source-test-tube-racks-coronavirus-testing/) for more information!**
+
 
 ## Ordering Parts
 
