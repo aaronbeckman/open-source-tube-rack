@@ -13,6 +13,7 @@ This design is meant to replace commonly used snap-together test tube racks like
 
 
 ## Ordering Parts
+### (Uses Ponoko for laser cutting, [SendCutSend](https://sendcutsend.com/) may be a cheaper and faster option!)
 
 The first step to ordering parts is filling out a proper bill of materials. Provided [here](https://docs.google.com/spreadsheets/d/1J19slEzeszxZjY6wbKE6jNVbN__mE522mNdJpSvLzcY/copy) is an auto-updating spreadsheet, which can be modified for any quantity of racks:
 1. Make a copy of the spreadsheet so you can make modifications.
